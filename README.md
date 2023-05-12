@@ -27,10 +27,3 @@ title = 'Notification'        # The title of the notification
 message = 'Example content'   # The message body of the notification
 timeout = 10                  # The duration (in seconds) for which the notification will be displayed
 ```
-
-## License
-This project is licensed under the MIT License. Feel free to modify and use the code according to your requirements.
-
-
-
-
